@@ -15,10 +15,10 @@ const config: Config = {
       },
     },
     colors: {
-      "test-color": "#123456",
-      primary: "#FFFFFF",
-      'primary-dark':'#0f172a',
-      'bluee':'#a22e22'
+      "base-100": "hsl(212 18% 14%/1)",
+      "base-200": "hsl(213 18% 12%/1)",
+      neutral: "hsl(213 18% 20%/1)",
+      "text-100": "hsl(220 13% 69%/1)",
     },
   },
   plugins: [],
